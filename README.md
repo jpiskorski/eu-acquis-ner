@@ -27,7 +27,7 @@ Each line contains a single entry consisting of 5 tab-separated elements
 
 Please note that the version of SILVER corpus described in the paper is this one: https://github.com/jpiskorski/eu-acquis-ner/blob/main/SILVER_EU_acquis_entity_corpus_ver.1.0.zip 
 
-Version 2.0 of the corpus was created by fine-tuning of the way how the extractions of the Knowledge- and Claude-based systems
+Version 2.0 of the corpus was created by fine-tuning the way how the extractions of the Knowledge- and Claude-based systems
 were merged (not described in the paper) and by discarding a large number of numerical expressions included in tables in annexes
 in one of the documents. There is also a slight difference in the raw document set.
 
