@@ -1,5 +1,5 @@
 
-This repository contains the EU-acquis Entity Corpus described in <url><b>LINK TO BE PROVIDED SOON</b></url>
+This repository contains the EU-acquis Entity Corpus described in <url><b>https://aclanthology.org/2026.emnlp-main.2491/</b></url>
 
 There are two sub-corpora: GOLD - fully human-annotated corpus, and SILVER - semi-automatically created corpus.
 
